@@ -9,4 +9,7 @@ memiliki ketertarikan di bidang :
 - UI Design ✏️
 
 [![GitHub Streak](https://streak-stats.demolab.com?user=tegarfn&theme=dark&hide_border=true&locale=id&mode=weekly)](https://git.io/streak-stats)
+
+<br>
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarfn&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
