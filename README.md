@@ -8,7 +8,8 @@ memiliki ketertarikan di bidang :
 - Front-end Web 🖥️
 - UI Design ✏️
 
-<br><br>
+
+## Stat 📈
 
 <div align="center">
   <img src="https://streak-stats.demolab.com?user=tegarfn&theme=dark&hide_border=true&locale=id&mode=weekly">
