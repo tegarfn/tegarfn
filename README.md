@@ -8,4 +8,7 @@ memiliki ketertarikan di bidang :
 - Front-end Web 🖥️
 - UI Design ✏️
 
+<div aling="center">
 [![GitHub Streak](https://streak-stats.demolab.com?user=tegarfn&theme=dark&hide_border=true&locale=id&mode=weekly)](https://git.io/streak-stats)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=tegarfn&layout=compact)](https://github.com/tegarfn/github-readme-stats)
+</div>
