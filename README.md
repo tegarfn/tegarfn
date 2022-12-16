@@ -12,6 +12,6 @@ memiliki ketertarikan di bidang :
 
 <br>
 <div align="center">
-  <img height=100px src="https://github-readme-stats.vercel.app/api?username=tegarfn&show_icons=true">
-  <img height=100px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tegarfn&layout=compact">
+  <img height=200px src="https://github-readme-stats.vercel.app/api?username=tegarfn&show_icons=true">
+  <img height=200px src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=tegarfn&layout=compact">
 </div>
